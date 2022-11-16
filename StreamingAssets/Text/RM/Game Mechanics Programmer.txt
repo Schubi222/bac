@@ -1,1 +1,0 @@
-The team responsible for coding the game mechanics creates the meat and bones of the game. Their work determines how all the objects interact with each other, they decide how they physics of the game work.
