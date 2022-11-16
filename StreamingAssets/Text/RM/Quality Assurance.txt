@@ -1,0 +1,1 @@
+The quality assurance (QA) department makes sure that the game works as intended. Their job is to find bugs and imbalances in the game through all the development phases. In larger projects there might be many QA teams with a different focus, one team might be focused on testing the multiplayer and another might focus on testing the compatibility with different systems. 

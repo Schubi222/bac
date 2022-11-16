@@ -1,0 +1,4 @@
+Hello!
+I am the Producer.
+My job is to manage the team that works on the project and make the production as smooth and efficient as possible.
+This includes communicating between the teams, making schedules, making sure that the project is on time, not over budget, and that it finally ships. 
